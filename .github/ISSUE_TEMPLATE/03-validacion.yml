@@ -1,0 +1,20 @@
+name: Prueba y validación
+description: Registrar una prueba verificable sin datos restringidos
+title: "[QA] "
+body:
+  - type: textarea
+    id: hipotesis
+    attributes:
+      label: Qué se quiere comprobar
+    validations:
+      required: true
+  - type: textarea
+    id: entorno
+    attributes:
+      label: Datos autorizados, procedimiento y entorno
+    validations:
+      required: true
+  - type: textarea
+    id: resultados
+    attributes:
+      label: Resultado, evidencia, limitaciones

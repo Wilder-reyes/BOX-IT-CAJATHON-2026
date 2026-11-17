@@ -1,0 +1,28 @@
+name: Tarea del equipo
+description: Definir tareas, responsables y evidencias
+title: "[TAREA] "
+body:
+  - type: textarea
+    id: objetivo
+    attributes:
+      label: Objetivo
+    validations:
+      required: true
+  - type: input
+    id: responsable
+    attributes:
+      label: Responsable propuesto
+  - type: input
+    id: revisor
+    attributes:
+      label: Revisor propuesto
+  - type: input
+    id: fecha
+    attributes:
+      label: Fecha objetivo
+  - type: textarea
+    id: aceptacion
+    attributes:
+      label: Criterios de aceptación y evidencia
+    validations:
+      required: true

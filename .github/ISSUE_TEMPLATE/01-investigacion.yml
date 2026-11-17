@@ -1,0 +1,27 @@
+name: Investigación y fuentes
+description: Documentar una pregunta con fuentes públicas verificables
+title: "[INV] "
+body:
+  - type: textarea
+    id: pregunta
+    attributes:
+      label: Objetivo y pregunta
+    validations:
+      required: true
+  - type: textarea
+    id: fuentes
+    attributes:
+      label: Fuentes y fechas
+      description: Distinguir hechos verificables de hipótesis
+    validations:
+      required: true
+  - type: textarea
+    id: hallazgos
+    attributes:
+      label: Hallazgos y limitaciones
+    validations:
+      required: true
+  - type: textarea
+    id: entregable
+    attributes:
+      label: Entregable y criterios de aceptación
