@@ -1,29 +1,36 @@
-# BOX-IT | Primera reunión
+# 🤝 Reuniones, roles y acuerdos
 
-Duración sugerida: 60 minutos. Fecha: por acordar.
+[← Documentación](../README.md) · [Tarea de primera reunión](https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026/issues/5)
 
-| Bloque | Tiempo | Resultado |
-|---|---|---|
-| Presentaciones | 0–10 min | Expectativas y fortalezas |
-| Disponibilidad | 10–20 min | Horarios y capacidad de trabajo |
-| Liderazgo | 20–35 min | Elegir líder voluntario/a |
-| Distribución | 35–45 min | Responsables provisionales |
-| Preparación | 45–55 min | Entregables, revisores y fechas |
-| Acuerdos | 55–60 min | Acta y próxima reunión |
+> El rol de **coordinador registrado** de Wilder no equivale a **líder general**. La elección del liderazgo corresponde al equipo y debe ser voluntaria.
 
-## Contribuciones sugeridas
-- Wilder: coordinador registrado, arquitectura, IA y desarrollo; **prefiere ser liderado**, no asumir liderazgo general.
-- Sheila: desarrollo full-stack, QA e integraciones.
-- Flor: negocio, investigación, producto, comunicación y UX.
-- Andrea: análisis de negocio, KPI, investigación y validación.
+## Primera reunión · Guion de 60 minutos
 
-**Cargos provisionales.** La persona que lidere será elegida por el equipo.
+| Minutos | Conversación | Acuerdo esperado |
+|:--|:--|:--|
+| 00–10 | Presentación, motivaciones y expectativas | Conocernos |
+| 10–20 | Fortalezas, tiempo disponible y aprendizaje | Disponibilidad real |
+| 20–35 | ¿Quién quiere liderar? ¿Qué espera el equipo de ese rol? | Liderazgo elegido por acuerdo |
+| 35–45 | Reparto de funciones y revisiones | Responsables iniciales |
+| 45–55 | Entregables agnósticos al reto | Plazos y criterios de aceptación |
+| 55–60 | Compromisos, canal y próxima reunión | Acta compartida |
 
-## Acta (sin datos privados)
-- Fecha:
-- Asistentes:
-- Líder general elegido:
-- Responsabilidades confirmadas:
-- Horarios y duración de sesiones:
-- Responsables y revisores:
-- Fecha y objetivo de próxima reunión:
+## Responsabilidades provisionales
+
+| Integrante | Aporte más natural | Qué NO se presupone |
+|:--|:--|:--|
+| Wilder | Arquitectura, IA, APIs y coordinación administrativa | Liderazgo general |
+| Sheila | Full-stack, integraciones y calidad | Única responsable de programar |
+| Flor | Producto, estrategia, investigación y comunicación | Que solo hará diapositivas |
+| Andrea | Indicadores, procesos, investigación y validación | Que solo realizará reportes |
+
+## Preguntas obligatorias antes de asignar tareas
+
+- ¿Quién desea asumir el liderazgo y puede dedicar tiempo a la coordinación diaria?
+- ¿Cuántas horas reales tiene cada persona?
+- ¿Qué herramientas domina y qué quiere aprender?
+- ¿Cómo se resolverán desacuerdos y bloqueos?
+- ¿Quién revisará cada entregable y cuándo?
+- ¿Qué se mantendrá fuera del repositorio público?
+
+**Acta:** fecha, asistentes, decisiones confirmadas, líder elegido, responsables, plazos, revisores y siguiente reunión. Compartir únicamente información publicable.

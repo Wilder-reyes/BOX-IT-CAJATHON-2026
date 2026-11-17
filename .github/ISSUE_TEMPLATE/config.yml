@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Guía de preparación
+    url: https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026/blob/main/docs/README.md
+    about: Revisa las plantillas antes de abrir una nueva tarea.
+  - name: Reglas de colaboración
+    url: https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026/blob/main/CONTRIBUTING.md
+    about: Consulta criterios de revisión, seguridad y entregables.
