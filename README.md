@@ -1,59 +1,110 @@
-# BOX-IT | Cajathon 2026
+<div align="center">
 
-**Categoría:** Negocios · **Equipo:** 4 integrantes · **Estado:** preparación previa al desafío oficial.
+# ◈ BOX-IT
 
-> **Importante:** todavía NO conocemos el enunciado del desafío asignado. Las ideas o hipótesis sectoriales no son instrucciones oficiales. Este repositorio público contiene únicamente material de preparación de divulgación permitida.
+### CAJATHON 2026 · ÁREA DE NEGOCIOS
 
-## Integrantes y responsabilidades provisionales
+**Un equipo. Un desafío por descubrir. Una solución por validar.**
 
-| Integrante | Propuesta de contribución |
-|---|---|
-| Wilder Reyes | Coordinador **registrado**, arquitectura, IA y desarrollo. No asume liderazgo general automáticamente. |
-| Sheila Príncipe | Desarrollo full-stack, APIs, integraciones y QA. |
-| Flor Huaringa | Investigación de negocio, estrategia, producto y comunicación. |
-| Andrea Sánchez | Análisis de negocio, indicadores, validación y evidencia. |
+![Estado: preparación](https://img.shields.io/badge/ESTADO-EN%20PREPARACI%C3%93N-2563eb?style=flat-square)
+![Equipo: 4 integrantes](https://img.shields.io/badge/EQUIPO-4%20INTEGRANTES-334155?style=flat-square)
+![Desafío: pendiente](https://img.shields.io/badge/DESAF%C3%8DO-PENDIENTE-f59e0b?style=flat-square)
+![Acceso: público](https://img.shields.io/badge/REPOSITORIO-P%C3%9ABLICO-64748b?style=flat-square)
 
-**El liderazgo general se decide entre los cuatro integrantes en una reunión.** Estas responsabilidades no constituyen designación unilateral.
+[**Documentación**](docs/README.md) · [**Roadmap**](docs/02-organizacion/ROADMAP-PREPARACION.md) · [**Tareas**](https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026/issues) · [**Cómo colaborar**](CONTRIBUTING.md)
 
-## Estructura
+</div>
 
-- `docs/01-bases/`: síntesis de bases, cronograma, propiedad intelectual y checklist de cumplimiento.
-- `docs/02-organizacion/`: agenda de reunión, roles provisionales y propuesta de tablero.
-- `docs/03-activos/`: plantilla de inventario de tecnologías preexistentes (sin activos personales cargados).
-- `docs/04-solution-concept/`: plantilla **sin desafío**.
-- `docs/05-evidencias/`: estrategia para documentar trabajo nuevo y validación.
-- `docs/06-informes/`: informe de preparación del coordinador.
-- `.github/ISSUE_TEMPLATE/`: formularios de investigación, trabajo y QA.
-- `issues/`: borradores de tareas iniciales que se convierten en GitHub Issues.
-- `scripts/`: utilidades opcionales para revisar/publicar tareas, sin cambios destructivos.
+---
 
-## Reglas de trabajo
+> [!IMPORTANT]
+> **El desafío de Negocios aún no ha sido comunicado.** BOX-IT no ha seleccionado un problema ni construido una solución específica. Lo que encuentres aquí es preparación general, investigación, organización y herramientas para actuar cuando se reciba el enunciado oficial.
 
-1. No definir ni desarrollar una solución específica antes de recibir el desafío oficial.
-2. No publicar datos confidenciales, personales reales, claves, accesos, bases de Caja Trujillo o comunicaciones restringidas en este repositorio **público**.
-3. Revisar con el organizador las restricciones de plataformas externas, incluidos modelos y servicios de IA.
-4. Identificar titularidad, versiones, licencias y condiciones de todo componente preexistente.
-5. Conservar una referencia del estado técnico anterior al evento; registrar y demostrar el desarrollo funcional nuevo o adaptación sustantiva realizada **durante el 3–4 de diciembre de 2026**.
-6. Nunca presentar estimaciones de impacto como mediciones reales.
+## ✦ Nuestra misión
 
-## Fechas indicadas en las bases v4
+Prepararnos para transformar un desafío real de negocio en un **prototipo funcional, útil y validado**, aplicando ingeniería, análisis de datos, diseño de producto y pensamiento estratégico.
 
-- **16–20 nov.:** descubrimiento e inmersión.
-- **20–24 nov.:** elaboración y postulación de Solution Concepts.
-- **25–29 nov.:** evaluación.
-- **30 nov.:** selección de finalistas.
-- **1 dic.:** inmersión tecnológica.
-- **3–4 dic.:** hackathon presencial en Trujillo.
+**Nuestra forma de trabajar:** entender primero → definir el impacto → construir lo necesario → demostrar con evidencia.
 
-Las fechas pueden variar si el organizador lo comunica.
+## 🧭 Empieza aquí
 
-## Flujo de colaboración
+| Explorar | Qué encontrarás | Acceso |
+|:--|:--|:--|
+| **01 · Bases** | Criterios, fechas, requisitos y propiedad intelectual | [Ver bases](docs/01-bases/RESUMEN-EJECUTIVO.md) |
+| **02 · Organización** | Reunión inicial, responsabilidades y decisiones | [Ver organización](docs/02-organizacion/ROLES-Y-REUNIONES.md) |
+| **03 · Roadmap** | Qué preparamos ahora y qué reservamos para la final | [Ver roadmap](docs/02-organizacion/ROADMAP-PREPARACION.md) |
+| **04 · Arquitectura** | Opciones técnicas, no tecnología obligatoria | [Ver stack](docs/02-organizacion/STACK-PROPUESTO.md) |
+| **05 · Evidencias** | Cómo registrar el trabajo y validar resultados | [Ver guía](docs/05-evidencias/PLAN-DE-TRAZABILIDAD.md) |
+| **06 · Trabajo abierto** | Actividades con responsables y revisiones | [Ver Issues](https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026/issues) |
 
-**Pendiente → Por hacer → En progreso → En revisión → Terminado**, con un responsable y revisor por tarea, enlaces de evidencia y un Pull Request revisado por otra persona cuando corresponda.
+📚 [**Índice completo de documentación**](docs/README.md)
 
-## Fuentes
+## 👥 El equipo
 
-- [Bases oficiales del Cajathon 2026, versión 4 (05.11.2026)](https://cajathon.cajatrujillo.com.pe/bases/)
-- [Portal del Cajathon](https://cajathon.cajatrujillo.com.pe/)
+Cuatro perfiles complementarios, una decisión colectiva sobre el liderazgo.
 
-El material legal es una **síntesis operativa**, no asesoría jurídica. No constituye un pronunciamiento de Caja Trujillo ni una afiliación institucional.
+| Integrante | Área | Contribución propuesta |
+|:--|:--|:--|
+| **Wilder** | Desarrollo tecnológico | Coordinador registrado · arquitectura, backend e IA |
+| **Sheila** | Desarrollo tecnológico | Full-stack · integraciones y QA |
+| **Flor** | Innovación y negocio | Investigación · estrategia, producto y UX |
+| **Andrea** | Innovación y negocio | Indicadores · análisis de negocio y validación |
+
+> **Coordinación ≠ liderazgo general.** La persona que liderará BOX-IT se elegirá en reunión, con acuerdo del equipo. Las funciones anteriores son propuestas, no asignaciones definitivas.
+
+## 🗓️ Nuestro recorrido
+
+| Etapa | Fechas 2026 | Enfoque |
+|:--|:--|:--|
+| **01 — Preparación** | 16–20 nov. | Conocernos, investigar, revisar bases y organizar herramientas |
+| **02 — Solution Concept** | 20–24 nov. | Interpretar el **reto oficial**, definir impacto y factibilidad |
+| **03 — Selección** | 25–30 nov. | Evaluación de conceptos y anuncio de 12 finalistas |
+| **04 — Inmersión técnica** | 1 dic. | Preparación según recursos y restricciones comunicadas |
+| **05 — Build & Validate** | 3–4 dic. | Construcción presencial, pruebas, evidencia y demostración |
+
+Fechas sujetas a cambios comunicados por la organización. Consulta el [roadmap detallado](docs/02-organizacion/ROADMAP-PREPARACION.md).
+
+## 🧩 Arquitectura de referencia
+
+```mermaid
+flowchart LR
+  U["Experiencia del usuario"] --> F["Frontend · React + TypeScript"]
+  F --> A["API · Python + FastAPI"]
+  A -. "si el reto lo requiere" .-> D[("PostgreSQL")]
+  A -. "si está justificado y permitido" .-> I["Servicios / modelos de IA"]
+```
+
+Este es un **stack provisional**, elegido por las competencias del equipo. No supone que el desafío necesite web, base de datos, agentes o IA. [Detalles y criterios de selección](docs/02-organizacion/STACK-PROPUESTO.md).
+
+## ✅ Cómo avanzamos
+
+| Actividad | Estado | Seguimiento |
+|:--|:--|:--|
+| Revisión de bases y propiedad intelectual | Documentación inicial lista; pendiente de revisión | [#1](https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026/issues/1) |
+| Factibilidad técnica genérica | Por acordar con Sheila | [#2](https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026/issues/2) |
+| Investigación pública de Caja Trujillo | Por acordar con Flor | [#3](https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026/issues/3) |
+| Diccionario de KPI y validación | Por acordar con Andrea | [#4](https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026/issues/4) |
+| Primera reunión y elección del liderazgo | Pendiente | [#5](https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026/issues/5) |
+| Interpretación del reto oficial | **Bloqueada hasta su comunicación** | [#6](https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026/issues/6) |
+
+Las fechas y responsabilidades deben confirmarse en equipo; el tablero de GitHub Projects es **opcional y aún no está creado**. Los [Issues](https://github.com/Wilder-reyes/BOX-IT-CAJATHON-2026/issues) son la fuente de seguimiento.
+
+## 🔐 Reglas de colaboración
+
+- **Nada confidencial en este repositorio público:** ni datos de clientes, credenciales, documentos restringidos o detalles del reto cuya publicación no esté autorizada.
+- **No simular resultados como reales:** distinguir métricas medidas, hipótesis y estimaciones.
+- **Respetar la propiedad intelectual:** inventariar componentes preexistentes, licencias y titulares.
+- **Evidenciar trabajo presencial:** la funcionalidad crítica nueva o adaptación sustantiva deberá desarrollarse y demostrarse durante las jornadas del 3 y 4 de diciembre.
+- **Revisar antes de integrar:** cada cambio debería pasar por Pull Request y revisión de otro integrante.
+
+Consulta [CONTRIBUTING.md](CONTRIBUTING.md) y la [síntesis de propiedad intelectual](docs/01-bases/PROPIEDAD-INTELECTUAL.md).
+
+---
+
+<div align="center">
+
+**BOX-IT · Preparar con criterio. Construir con propósito. Validar con evidencia.**
+
+<sub>Proyecto independiente de un equipo participante. No es un repositorio oficial de Caja Trujillo.</sub>
+
+</div>
