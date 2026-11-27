@@ -1,0 +1,159 @@
+# BOX-IT — Validación de plataforma nacional
+
+- Base: plataforma estable anterior; componentes SVG y resultados de experimentos preservados.
+- 2.000 negocios sintéticos; 25 ámbitos departamentales, 195 provincias históricas y 1.827 distritos disponibles.
+- Perfiles de consulta Gerencia, Agencia, Asesor; asignación, estados, seguimiento en sesión.
+- 140/140 pruebas locales (44 por resolución y 8 complementarias). Sin errores JS ni solicitudes externas en las pruebas de interfaz.
+- CSP verificada mediante meta local; HTTP externo bloqueado. Despliegue y validación institucional pendientes.
+- Cartografía nacional histórica INEI 2007, capa La Libertad de referencia 2024. No constituye cartografía nacional actualizada.
+- ZIP SHA256: 153a08ca1ed583690bb2c829b425f4b2f9af0ca56d837285a8a693f505cacdb8
+
+## Pruebas
+
+### 1440 px
+- APROBADA: initial rendering
+- APROBADA: 2000 unique fictional businesses
+- APROBADA: all cartographic coverage
+- APROBADA: finance input separate
+- APROBADA: predictive evidence unchanged
+- APROBADA: all dept counts reconcile
+- APROBADA: overview visible
+- APROBADA: overview no horizontal overflow
+- APROBADA: territory visible
+- APROBADA: territory no horizontal overflow
+- APROBADA: businesses visible
+- APROBADA: businesses no horizontal overflow
+- APROBADA: alerts visible
+- APROBADA: alerts no horizontal overflow
+- APROBADA: portfolio visible
+- APROBADA: portfolio no horizontal overflow
+- APROBADA: evidence visible
+- APROBADA: evidence no horizontal overflow
+- APROBADA: about visible
+- APROBADA: about no horizontal overflow
+- APROBADA: national 25 paths
+- APROBADA: La Libertad drilldown
+- APROBADA: 12 provinces
+- APROBADA: province scope
+- APROBADA: district paths
+- APROBADA: district selection
+- APROBADA: layer selection
+- APROBADA: zoom
+- APROBADA: selected district expediente
+- APROBADA: schedule
+- APROBADA: 3 questions
+- APROBADA: agency role
+- APROBADA: unassigned queue
+- APROBADA: assignment
+- APROBADA: advisor scope
+- APROBADA: followup saved
+- APROBADA: experimental portfolio
+- APROBADA: financial scenarios
+- APROBADA: financial chart toggle
+- APROBADA: predictive sensitivity
+- APROBADA: search
+- APROBADA: empty result
+- APROBADA: no JS errors
+- APROBADA: no external runtime requests
+
+### 1280 px
+- APROBADA: initial rendering
+- APROBADA: 2000 unique fictional businesses
+- APROBADA: all cartographic coverage
+- APROBADA: finance input separate
+- APROBADA: predictive evidence unchanged
+- APROBADA: all dept counts reconcile
+- APROBADA: overview visible
+- APROBADA: overview no horizontal overflow
+- APROBADA: territory visible
+- APROBADA: territory no horizontal overflow
+- APROBADA: businesses visible
+- APROBADA: businesses no horizontal overflow
+- APROBADA: alerts visible
+- APROBADA: alerts no horizontal overflow
+- APROBADA: portfolio visible
+- APROBADA: portfolio no horizontal overflow
+- APROBADA: evidence visible
+- APROBADA: evidence no horizontal overflow
+- APROBADA: about visible
+- APROBADA: about no horizontal overflow
+- APROBADA: national 25 paths
+- APROBADA: La Libertad drilldown
+- APROBADA: 12 provinces
+- APROBADA: province scope
+- APROBADA: district paths
+- APROBADA: district selection
+- APROBADA: layer selection
+- APROBADA: zoom
+- APROBADA: selected district expediente
+- APROBADA: schedule
+- APROBADA: 3 questions
+- APROBADA: agency role
+- APROBADA: unassigned queue
+- APROBADA: assignment
+- APROBADA: advisor scope
+- APROBADA: followup saved
+- APROBADA: experimental portfolio
+- APROBADA: financial scenarios
+- APROBADA: financial chart toggle
+- APROBADA: predictive sensitivity
+- APROBADA: search
+- APROBADA: empty result
+- APROBADA: no JS errors
+- APROBADA: no external runtime requests
+
+### 390 px
+- APROBADA: initial rendering
+- APROBADA: 2000 unique fictional businesses
+- APROBADA: all cartographic coverage
+- APROBADA: finance input separate
+- APROBADA: predictive evidence unchanged
+- APROBADA: all dept counts reconcile
+- APROBADA: overview visible
+- APROBADA: overview no horizontal overflow
+- APROBADA: territory visible
+- APROBADA: territory no horizontal overflow
+- APROBADA: businesses visible
+- APROBADA: businesses no horizontal overflow
+- APROBADA: alerts visible
+- APROBADA: alerts no horizontal overflow
+- APROBADA: portfolio visible
+- APROBADA: portfolio no horizontal overflow
+- APROBADA: evidence visible
+- APROBADA: evidence no horizontal overflow
+- APROBADA: about visible
+- APROBADA: about no horizontal overflow
+- APROBADA: national 25 paths
+- APROBADA: La Libertad drilldown
+- APROBADA: 12 provinces
+- APROBADA: province scope
+- APROBADA: district paths
+- APROBADA: district selection
+- APROBADA: layer selection
+- APROBADA: zoom
+- APROBADA: selected district expediente
+- APROBADA: schedule
+- APROBADA: 3 questions
+- APROBADA: agency role
+- APROBADA: unassigned queue
+- APROBADA: assignment
+- APROBADA: advisor scope
+- APROBADA: followup saved
+- APROBADA: experimental portfolio
+- APROBADA: financial scenarios
+- APROBADA: financial chart toggle
+- APROBADA: predictive sensitivity
+- APROBADA: search
+- APROBADA: empty result
+- APROBADA: no JS errors
+- APROBADA: no external runtime requests
+
+### Complementarias
+- APROBADA: CSP via local meta startup
+- APROBADA: four national risk categories
+- APROBADA: original 84 official paths
+- APROBADA: susceptibility overlay retained
+- APROBADA: official layer cannot leak nationwide
+- APROBADA: amortization rows reconcile
+- APROBADA: national assets CSP no JS errors
+- APROBADA: original evidence data byte-identical
